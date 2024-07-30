@@ -51,6 +51,13 @@ section {
     text-align: center;
 }
 
+#sobre img, .projeto img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 10px 0;
+}
+
 .projeto {
     margin-bottom: 20px;
     padding: 10px;
